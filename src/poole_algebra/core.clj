@@ -31,9 +31,8 @@
 
 (defn vec-angle [u v]
 "Returns the angle in degrees between vector u and v."
-    (* (/ 180 Math/PI) 
-       (Math/acos (/ (dot-prod u v) 
-                  (* (vec-len u) (vec-len v))))))
+    (* (/ 180 Math/PI) (Math/acos (/ (dot-prod u v) 
+                       (* (vec-len u) (vec-len v))))))
 
 
 
