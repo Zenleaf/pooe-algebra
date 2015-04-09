@@ -4,7 +4,7 @@ A Clojure library designed to be used with Poole's textbook for Linear Algebra.
 
 ## Usage
 
-Zenleaf
+FIXME
 
 ## License
 
