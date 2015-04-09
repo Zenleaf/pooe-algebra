@@ -1,6 +1,6 @@
 # poole-algebra
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to be used Poole's textbook for Linear Algebra.
 
 ## Usage
 
